@@ -7,7 +7,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "abc"
+        "neopixel": ""
     },
     "files": [
         "README.md",

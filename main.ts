@@ -6,7 +6,7 @@ load dependency
 */
 
 
-//% color="#31C7D5" weight=10 icon="\uf1d0mw"
+//% color="#DF01D7" weight=10 
 namespace mwrobotbit {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
